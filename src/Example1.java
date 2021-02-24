@@ -5,6 +5,7 @@ public class Example1 {
 		int x = 4;
 		int y = 6;
 		System.out.println(x  * y);
+		System.out.println(x - y);
 
 	}
 
