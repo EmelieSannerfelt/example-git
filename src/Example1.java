@@ -8,6 +8,7 @@ public class Example1 {
 		System.out.println(x - y);
 		
 		System.out.println(x + y);
+		System.out.println("Hej test");
 
 	}
 
